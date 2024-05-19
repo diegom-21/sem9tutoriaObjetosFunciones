@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript Objetos y funciones
 
 Se ha trabajado con objetos en JavaScript, explorando diversas técnicas y conceptos para su manipulación y acceso.
 
